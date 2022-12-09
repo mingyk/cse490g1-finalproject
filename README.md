@@ -65,3 +65,6 @@ Refer to main.ipynb under **Model Training** sections to see each dev, train, an
 
 ### Discussion and Example
 Based on results, it seems like HMM Model had the highest test accuracy for all languages. However, based on their training data, it is likely that these models could've been overfitted. The model with the lowest training accuracy was GRU and BiGRU. Of all languages, Greek tend to have the highest accuracy results, which is interesting since English corpus was the biggest, then Greek, Korean, followed by Swedish SL. Also it is expected Swedish SL to have low accuracies because it has a significantly lower amount of data. One interesting point I figured was that results are unaffected by the linguistic family of each language.
+
+### Video Link
+https://drive.google.com/file/d/1xA1id9Zil6I8pqq96XFY_upjBf0Rvlic/view?usp=sharing
